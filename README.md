@@ -3,7 +3,7 @@
 
 - 🌱 Análise e Desenvolvimento de Sistemas| PUC-MG
 
-- 🌱  No momento, estudando Java e frameworks integradas
+- 🌱  Analista de Dados Jr. at LWSolutions
 
 
  <div>
