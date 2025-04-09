@@ -3,7 +3,7 @@
 
 - 🌱 Análise e Desenvolvimento de Sistemas| PUC-MG
 
-- 🌱  Analista de Dados Jr. at LWSolutions
+- 🌱  Analista de Dados Jr|Business Intelligence|PowerBI|Python|SQL|Java
 
 
  <div>
